@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="8.400">
+           time="9.481">
   <properties />
   
   
-            <testcase name="GiftsTestMethod" time="8.400" classname="com.amazon.tests.GiftsTest" />
+            <testcase name="GiftsTestMethod" time="9.481" classname="com.amazon.tests.GiftsTest" />
       
 </testsuite>

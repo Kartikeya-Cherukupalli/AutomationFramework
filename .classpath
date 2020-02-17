@@ -11,16 +11,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/ckh6kor/Downloads/client-combined-3.141.59.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ckh6kor/Downloads/client-combined-3.141.59-sources.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ckh6kor/Downloads/libs/byte-buddy-1.8.15.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ckh6kor/Downloads/libs/commons-exec-1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ckh6kor/Downloads/libs/guava-25.0-jre.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ckh6kor/Downloads/libs/okhttp-3.11.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ckh6kor/Downloads/libs/okio-1.14.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ckh6kor/Downloads/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/ckh6kor/Downloads/log4j-1.2.17/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
