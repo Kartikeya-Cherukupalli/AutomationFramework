@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57284" started-at="2020-02-17T14:00:46 IST" finished-at="2020-02-17T14:01:43 IST">
+    <groups>
+    </groups>
+    <test name="DealsTest" duration-ms="47900" started-at="2020-02-17T14:00:46 IST" finished-at="2020-02-17T14:01:34 IST">
+      <class name="com.amazon.tests.DealsTest">
+        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@2de8284b]" name="Setup" is-config="true" duration-ms="21938" started-at="2020-02-17T14:00:46 IST" finished-at="2020-02-17T14:01:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://amazon.in/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@2de8284b]" name="Setup" is-config="true" duration-ms="18118" started-at="2020-02-17T14:00:46 IST" finished-at="2020-02-17T14:01:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://amazon.in/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="DealsTestMethod(java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@2de8284b]" name="DealsTestMethod" duration-ms="25968" started-at="2020-02-17T14:01:04 IST" data-provider="GetData" finished-at="2020-02-17T14:01:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Beauty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DealsTestMethod -->
+        <test-method status="PASS" signature="DealsTestMethod(java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@2de8284b]" name="DealsTestMethod" duration-ms="23598" started-at="2020-02-17T14:01:08 IST" data-provider="GetData" finished-at="2020-02-17T14:01:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Appliances]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DealsTestMethod -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.DealsTest@2de8284b]" name="TearDown" is-config="true" duration-ms="1817" started-at="2020-02-17T14:01:31 IST" finished-at="2020-02-17T14:01:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.DealsTest@2de8284b]" name="TearDown" is-config="true" duration-ms="1754" started-at="2020-02-17T14:01:32 IST" finished-at="2020-02-17T14:01:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.amazon.tests.DealsTest -->
+    </test> <!-- DealsTest -->
+    <test name="GiftsTest" duration-ms="57284" started-at="2020-02-17T14:00:46 IST" finished-at="2020-02-17T14:01:43 IST">
+      <class name="com.amazon.tests.GiftsTest">
+        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.GiftsTest@77846d2c]" name="Setup" is-config="true" duration-ms="41674" started-at="2020-02-17T14:00:46 IST" finished-at="2020-02-17T14:01:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://amazon.in/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="GiftsTestMethod()[pri:0, instance:com.amazon.tests.GiftsTest@77846d2c]" name="GiftsTestMethod" duration-ms="8400" started-at="2020-02-17T14:01:28 IST" finished-at="2020-02-17T14:01:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GiftsTestMethod -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.GiftsTest@77846d2c]" name="TearDown" is-config="true" duration-ms="6945" started-at="2020-02-17T14:01:36 IST" finished-at="2020-02-17T14:01:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.amazon.tests.GiftsTest -->
+    </test> <!-- GiftsTest -->
+  </suite> <!-- Suite -->
+</testng-results>

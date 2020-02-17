@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pages>
+	<Header>
+		<deals>
+			<link>Today's Deals</link>
+		</deals>
+		<giftIdeas>
+			<link>Gift Ideas</link>
+		</giftIdeas>
+	</Header>
+</Pages>

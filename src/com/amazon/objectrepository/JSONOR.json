@@ -1,0 +1,55 @@
+{
+"Pages":{
+		"Header":{
+				"deals":
+					{
+						"link":		"Today's Deals"
+					},				
+				"giftIdeas":
+					{
+						"link":		"Gift Ideas"
+					}
+				},		
+		"GiftsPage":{
+				"HotNewReleasesLink":
+					{
+						"link":		"Hot New Releases"
+					},
+				"Header":
+					{
+						"xpath":	"//*[@id='zg_banner_text_wrapper']"
+					},
+				"LoginButton":
+					{
+						"xpath":	"//*[@id='login']/button/i"
+					}						
+				},
+		"DealsPage":{
+				"Header":
+					{
+						"xpath":	"//*[@id='gbox-item-0.0.0']/div/div/div[1]/h1/div[1]"
+					},
+				"DealOfDay":
+					{
+						"xpath":	"//*[@id='widgetFilters']/div[2]/span[2]/div/a",
+						"link":		"Deal of the Day"
+					},
+				"AllDeals":
+					{
+						"xpath":	"/html/body/div[1]/header/div/div[4]/a[2]/span"
+					},
+				"SelectionResults":
+					{
+						"xpath":	"//*[@id='search']/span/span/h1/div/div[1]/div/div/span[3]"
+					},
+				"SearchBox":
+					{
+						"xpath":	"//*[@id='twotabsearchtextbox']"
+					},
+				"SearchButton":
+					{
+						"xpath":	"//*[@id='nav-search']/form/div[2]/div/input"
+					}
+				}
+		}	
+}

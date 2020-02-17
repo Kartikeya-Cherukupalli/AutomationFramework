@@ -282,3 +282,186 @@
 [TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Successfully clicked on Gift Cards Link
 [TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
 [TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - ending logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[main] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[main] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[main] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[main] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[main] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[main] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[main] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[main] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[main] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[main] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[main] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[main] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[main] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Starting logger Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Starting logger Method
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Trying to click on Gift Cards Link
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Successfully clicked on Gift Cards Link
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - ending logger Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Entering text in the search box
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Entering text in the search box
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Starting logger Method
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Trying to click on Gift Cards Link
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Successfully clicked on Gift Cards Link
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Clicking on Hot New Releases link
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Successfully clicked on hot new releases link
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - ending logger Method
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully entered text in the search box
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Clicking on Search button
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully entered text in the search box
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Clicking on Search button
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully Clicked on Search button
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Fetching text from search results
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully Clicked on Search button
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Fetching text from search results
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Starting logger Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Trying to click on Gift Cards Link
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Successfully clicked on Gift Cards Link
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Clicking on Hot New Releases link
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Entering text in the search box
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Successfully clicked on hot new releases link
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully entered text in the search box
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Clicking on Search button
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - ending logger Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully Clicked on Search button
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Fetching text from search results
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Entering text in the search box
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully entered text in the search box
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Clicking on Search button
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully Clicked on Search button
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Fetching text from search results
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Starting logger Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Entering text in the search box
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully entered text in the search box
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Clicking on Search button
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Entering text in the search box
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully entered text in the search box
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Clicking on Search button
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully Clicked on Search button
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Fetching text from search results
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Starting logger Method
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Trying to click on Gift Cards Link
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully Clicked on Search button
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Fetching text from search results
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Successfully clicked on Gift Cards Link
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - ending logger Method
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Clicking on Hot New Releases link
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Successfully clicked on hot new releases link
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - ending logger Method
