@@ -245,3 +245,32 @@
 [TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Trying to get text for element with the locator path:By.xpath: //*[@id='search']/span/span/h1/div/div[1]/div/div/span[3]
 [TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - ending Deals Test Method
 [TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - ending Deals Test Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Starting Deals Test Method
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Starting Gifts Test Method
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Starting Deals Test Method
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Trying to click on element with the locator path:By.linkText: Today's Deals
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Trying to click on Gift Cards Link
+[TestNG-tests-2] INFO  com.amazon.tests.GiftsTest  - Trying to click on element with the locator path:By.linkText: Gift Ideas
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Trying to click on Deals link
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Trying to click on element with the locator path:By.linkText: Today's Deals
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully clicked on element with the locator path:By.linkText: Today's Deals
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on element with the locator path:By.linkText: Today's Deals
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on Deals link
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Trying to click on element with the locator path:By.xpath: /html/body/div[1]/header/div/div[4]/a[2]/span
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Trying to click on element with the locator path:By.xpath: /html/body/div[1]/header/div/div[4]/a[2]/span
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully clicked on element with the locator path:By.xpath: /html/body/div[1]/header/div/div[4]/a[2]/span
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Trying to send text to element with the locator path:By.xpath: //*[@id='twotabsearchtextbox']
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on element with the locator path:By.xpath: /html/body/div[1]/header/div/div[4]/a[2]/span
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Trying to send text to element with the locator path:By.xpath: //*[@id='twotabsearchtextbox']
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully sent text to element with the locator path:By.xpath: //*[@id='twotabsearchtextbox']
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Trying to click on element with the locator path:By.xpath: //*[@id='nav-search']/form/div[2]/div/input
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully sent text to element with the locator path:By.xpath: //*[@id='twotabsearchtextbox']
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Trying to click on element with the locator path:By.xpath: //*[@id='nav-search']/form/div[2]/div/input
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Successfully clicked on element with the locator path:By.xpath: //*[@id='nav-search']/form/div[2]/div/input
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - Trying to get text for element with the locator path:By.xpath: //*[@id='search']/span/span/h1/div/div[1]/div/div/span[3]
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Successfully clicked on element with the locator path:By.xpath: //*[@id='nav-search']/form/div[2]/div/input
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - Trying to get text for element with the locator path:By.xpath: //*[@id='search']/span/span/h1/div/div[1]/div/div/span[3]
+[TestNG-PoolService-0] INFO  com.amazon.tests.DealsTest  - ending Deals Test Method
+[TestNG-PoolService-1] INFO  com.amazon.tests.DealsTest  - ending Deals Test Method

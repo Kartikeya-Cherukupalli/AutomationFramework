@@ -1,79 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="3" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="66105" started-at="2020-02-22T23:27:57 IST" finished-at="2020-02-22T23:29:04 IST">
+  <suite name="Suite" duration-ms="67500" started-at="2020-02-22T23:48:44 IST" finished-at="2020-02-22T23:49:52 IST">
     <groups>
     </groups>
-    <test name="DealsTest" duration-ms="54799" started-at="2020-02-22T23:27:57 IST" finished-at="2020-02-22T23:28:52 IST">
+    <test name="DealsTest" duration-ms="67500" started-at="2020-02-22T23:48:44 IST" finished-at="2020-02-22T23:49:52 IST">
       <class name="com.amazon.tests.DealsTest">
-        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="Setup" is-config="true" duration-ms="21785" started-at="2020-02-22T23:27:58 IST" finished-at="2020-02-22T23:28:19 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[http://amazon.in/]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="Setup" is-config="true" duration-ms="22279" started-at="2020-02-22T23:27:58 IST" finished-at="2020-02-22T23:28:20 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[http://amazon.in/]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="DealsTestMethod(java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="DealsTestMethod" duration-ms="28393" started-at="2020-02-22T23:28:19 IST" data-provider="GetData" finished-at="2020-02-22T23:28:48 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Appliances]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- DealsTestMethod -->
-        <test-method status="PASS" signature="DealsTestMethod(java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="DealsTestMethod" duration-ms="29322" started-at="2020-02-22T23:28:20 IST" data-provider="GetData" finished-at="2020-02-22T23:28:49 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Beauty]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- DealsTestMethod -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="TearDown" is-config="true" duration-ms="3575" started-at="2020-02-22T23:28:49 IST" finished-at="2020-02-22T23:28:52 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TearDown -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="TearDown" is-config="true" duration-ms="2654" started-at="2020-02-22T23:28:50 IST" finished-at="2020-02-22T23:28:52 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TearDown -->
-      </class> <!-- com.amazon.tests.DealsTest -->
-    </test> <!-- DealsTest -->
-    <test name="GiftsTest" duration-ms="66105" started-at="2020-02-22T23:27:57 IST" finished-at="2020-02-22T23:29:04 IST">
-      <class name="com.amazon.tests.GiftsTest">
-        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.GiftsTest@279ad2e3]" name="Setup" is-config="true" duration-ms="47618" started-at="2020-02-22T23:27:58 IST" finished-at="2020-02-22T23:28:45 IST">
+        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="Setup" is-config="true" duration-ms="33691" started-at="2020-02-22T23:48:44 IST" finished-at="2020-02-22T23:49:18 IST">
           <params>
             <param index="0">
               <value>
@@ -89,61 +23,53 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="FAIL" signature="GiftsTestMethod()[pri:0, instance:com.amazon.tests.GiftsTest@279ad2e3]" name="GiftsTestMethod" duration-ms="11435" started-at="2020-02-22T23:28:45 IST" finished-at="2020-02-22T23:28:57 IST">
-          <exception class="java.lang.NoClassDefFoundError">
-            <message>
-              <![CDATA[org/openqa/selenium/WrapsDriver]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.NoClassDefFoundError: org/openqa/selenium/WrapsDriver
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:97)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-at com.amazon.base.BaseActions.waitFor(BaseActions.java:35)
-at com.amazon.base.BaseActions.waitFor(BaseActions.java:49)
-at com.amazon.base.BaseActions.find(BaseActions.java:63)
-at com.amazon.base.BaseActions.Click(BaseActions.java:83)
-at com.amazon.pages.HomePage.ClickGiftsLink(HomePage.java:54)
-at com.amazon.tests.GiftsTest.GiftsTestMethod(GiftsTest.java:22)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.lang.reflect.Method.invoke(Method.java:498)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.util.ArrayList.forEach(ArrayList.java:1257)
-at org.testng.TestRunner.privateRun(TestRunner.java:766)
-at org.testng.TestRunner.run(TestRunner.java:587)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
-at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
-at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
-at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-at java.lang.Thread.run(Thread.java:748)
-Caused by: java.lang.ClassNotFoundException: org.openqa.selenium.WrapsDriver
-at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
-at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
-at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:355)
-at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
-... 31 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NoClassDefFoundError -->
+        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="Setup" is-config="true" duration-ms="35333" started-at="2020-02-22T23:48:44 IST" finished-at="2020-02-22T23:49:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://amazon.in/]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- GiftsTestMethod -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.GiftsTest@279ad2e3]" name="TearDown" is-config="true" duration-ms="6397" started-at="2020-02-22T23:28:57 IST" finished-at="2020-02-22T23:29:04 IST">
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="DealsTestMethod(java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="DealsTestMethod" duration-ms="23156" started-at="2020-02-22T23:49:18 IST" data-provider="GetData" finished-at="2020-02-22T23:49:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Appliances]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DealsTestMethod -->
+        <test-method status="PASS" signature="DealsTestMethod(java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="DealsTestMethod" duration-ms="21523" started-at="2020-02-22T23:49:20 IST" data-provider="GetData" finished-at="2020-02-22T23:49:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Beauty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DealsTestMethod -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="TearDown" is-config="true" duration-ms="10322" started-at="2020-02-22T23:49:41 IST" finished-at="2020-02-22T23:49:52 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
-      </class> <!-- com.amazon.tests.GiftsTest -->
-    </test> <!-- GiftsTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="TearDown" is-config="true" duration-ms="9803" started-at="2020-02-22T23:49:41 IST" finished-at="2020-02-22T23:49:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.amazon.tests.DealsTest -->
+    </test> <!-- DealsTest -->
   </suite> <!-- Suite -->
 </testng-results>

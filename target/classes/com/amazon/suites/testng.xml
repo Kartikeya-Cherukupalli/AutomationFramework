@@ -8,7 +8,7 @@
 </listeners>
 <parameter name= "url" value= "http://amazon.in/"/>
   <test thread-count="5" name="DealsTest">
-   <parameter name ="browser" value ="chrome"/>
+   <parameter name ="browser" value ="firefox"/>
     <classes>
       <class name="com.amazon.tests.DealsTest"/>
     </classes>
