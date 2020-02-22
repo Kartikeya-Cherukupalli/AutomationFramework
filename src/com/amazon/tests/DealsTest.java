@@ -4,16 +4,13 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import org.json.simple.parser.ParseException;
 import org.junit.Assert;
-import org.testng.IHookCallBack;
-import org.testng.IHookable;
-import org.testng.ITestResult;
 import org.testng.annotations.DataProvider;
-import org.testng.annotations.Factory;
 import org.testng.annotations.Test;
 
 import com.amazon.base.BaseTest;
 import com.amazon.pages.DealsPage;
 import com.amazon.pages.HomePage;
+import com.amazon.utilities.LoggerUtility;
 
 public class DealsTest extends BaseTest {
 		
@@ -22,7 +19,7 @@ public class DealsTest extends BaseTest {
 	{
 		try
 		{
-			logger().info("Starting logger Method");
+			LoggerUtility.logger().info("Starting Deals Test Method");
 			HomePage homePage = new HomePage().OpenPage();
 	
 			
@@ -39,7 +36,7 @@ public class DealsTest extends BaseTest {
 			Assert.assertTrue("The provided search parameter is not being displayed in the results text "+ searchParameter,text.contains(searchParameter));
 			
 			Thread.sleep(2000);		
-			logger().info("ending logger Method");
+			LoggerUtility.logger().info("ending Deals Test Method");
 		}
 		catch(Exception e1)
 		{

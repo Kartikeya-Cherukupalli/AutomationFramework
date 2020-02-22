@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DealsTest"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="74.943">
+  <properties />
+  
+  
+            <testcase name="DealsTestMethod" time="45.147" classname="com.amazon.tests.DealsTest" />
+                <testcase name="DealsTestMethod" time="29.796" classname="com.amazon.tests.DealsTest" />
+      
+</testsuite>

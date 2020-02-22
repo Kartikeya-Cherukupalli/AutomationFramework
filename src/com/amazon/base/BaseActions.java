@@ -79,18 +79,23 @@ public abstract class BaseActions<T> {
 		//find the element and perform click action on element specified using the byLocatorPath
 		protected void Click(By byLocatorPath)
 		{
+			LoggerUtility.logger().info("Trying to click on element with the locator path:"+ byLocatorPath);
 			find(byLocatorPath).click();
+			LoggerUtility.logger().info("Successfully clicked on element with the locator path:"+ byLocatorPath);
 		}
 		
 		//find the element and Perform Send Keys action with the provided text on the element specified using the byLocatorPath
 		protected void TypeText(By byLocatorPath, String text)
 		{
+			LoggerUtility.logger().info("Trying to send text to element with the locator path:"+ byLocatorPath);
 			find(byLocatorPath).sendKeys(text);
+			LoggerUtility.logger().info("Successfully sent text to element with the locator path:"+ byLocatorPath);
 		}
 		
 		//get the text for the webelement identified using the byLocator
 		protected String GetText(By byLocatorPath)
 		{
+			LoggerUtility.logger().info("Trying to get text for element with the locator path:"+ byLocatorPath);
 			return find(byLocatorPath).getText();
 		}
 		

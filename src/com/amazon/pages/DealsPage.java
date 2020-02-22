@@ -47,9 +47,9 @@ public class DealsPage extends BasePage<Object>{
 	{
 		if(_dealOfDayLink!= null)
 		{
-			LoggerUtility.logger().info("Clicking on Deals of the day link");
+			//LoggerUtility.logger().info("Clicking on Deals of the day link");
 			Click(_dealOfDayLink);
-			LoggerUtility.logger().info("Successfully clicked on deals of the day link");
+			//LoggerUtility.logger().info("Successfully clicked on deals of the day link");
 		}
 		else
 		{
@@ -63,9 +63,9 @@ public class DealsPage extends BasePage<Object>{
 	{
 		if(_searchButton!= null)
 		{
-			LoggerUtility.logger().info("Clicking on Search button");
+			//LoggerUtility.logger().info("Clicking on Search button");
 			Click(_searchButton);
-			LoggerUtility.logger().info("Successfully Clicked on Search button");
+			//LoggerUtility.logger().info("Successfully Clicked on Search button");
 		}
 		else
 		{
@@ -78,7 +78,7 @@ public class DealsPage extends BasePage<Object>{
 	{
 		if(_selectionResultsLink!= null)
 		{
-			LoggerUtility.logger().info("Fetching text from search results");
+			//LoggerUtility.logger().info("Fetching text from search results");
 			return GetText(_selectionResultsLink);			
 		}
 		else
@@ -93,9 +93,9 @@ public class DealsPage extends BasePage<Object>{
 	{
 		if(_searchBoxLocator!= null)
 		{
-			LoggerUtility.logger().info("Entering text in the search box");
+			//LoggerUtility.logger().info("Entering text in the search box");
 			TypeText(_searchBoxLocator, text);
-			LoggerUtility.logger().info("Successfully entered text in the search box");
+			//LoggerUtility.logger().info("Successfully entered text in the search box");
 		}
 		else
 		{

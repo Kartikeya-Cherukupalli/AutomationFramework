@@ -1,79 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="64018" started-at="2020-02-17T14:32:47 IST" finished-at="2020-02-17T14:33:51 IST">
+  <suite name="Suite" duration-ms="156785" started-at="2020-02-22T22:02:46 IST" finished-at="2020-02-22T22:05:23 IST">
     <groups>
     </groups>
-    <test name="DealsTest" duration-ms="61989" started-at="2020-02-17T14:32:47 IST" finished-at="2020-02-17T14:33:49 IST">
-      <class name="com.amazon.tests.DealsTest">
-        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@55ca8de8]" name="Setup" is-config="true" duration-ms="23070" started-at="2020-02-17T14:32:47 IST" finished-at="2020-02-17T14:33:10 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[http://amazon.in/]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@55ca8de8]" name="Setup" is-config="true" duration-ms="25832" started-at="2020-02-17T14:32:47 IST" finished-at="2020-02-17T14:33:13 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[http://amazon.in/]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="DealsTestMethod(java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@55ca8de8]" name="DealsTestMethod" duration-ms="31083" started-at="2020-02-17T14:33:10 IST" data-provider="GetData" finished-at="2020-02-17T14:33:41 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Appliances]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- DealsTestMethod -->
-        <test-method status="PASS" signature="DealsTestMethod(java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@55ca8de8]" name="DealsTestMethod" duration-ms="34327" started-at="2020-02-17T14:33:13 IST" data-provider="GetData" finished-at="2020-02-17T14:33:47 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Beauty]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- DealsTestMethod -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.DealsTest@55ca8de8]" name="TearDown" is-config="true" duration-ms="3393" started-at="2020-02-17T14:33:43 IST" finished-at="2020-02-17T14:33:46 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TearDown -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.DealsTest@55ca8de8]" name="TearDown" is-config="true" duration-ms="1162" started-at="2020-02-17T14:33:48 IST" finished-at="2020-02-17T14:33:49 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TearDown -->
-      </class> <!-- com.amazon.tests.DealsTest -->
-    </test> <!-- DealsTest -->
-    <test name="GiftsTest" duration-ms="64018" started-at="2020-02-17T14:32:47 IST" finished-at="2020-02-17T14:33:51 IST">
+    <test name="GiftsTest" duration-ms="156785" started-at="2020-02-22T22:02:46 IST" finished-at="2020-02-22T22:05:23 IST">
       <class name="com.amazon.tests.GiftsTest">
-        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.GiftsTest@6646153]" name="Setup" is-config="true" duration-ms="45794" started-at="2020-02-17T14:32:47 IST" finished-at="2020-02-17T14:33:33 IST">
+        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.GiftsTest@97e93f1]" name="Setup" is-config="true" duration-ms="29800" started-at="2020-02-22T22:02:46 IST" finished-at="2020-02-22T22:03:16 IST">
           <params>
             <param index="0">
               <value>
@@ -89,11 +23,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="GiftsTestMethod()[pri:0, instance:com.amazon.tests.GiftsTest@6646153]" name="GiftsTestMethod" duration-ms="9481" started-at="2020-02-17T14:33:33 IST" finished-at="2020-02-17T14:33:43 IST">
+        <test-method status="PASS" signature="GiftsTestMethod()[pri:0, instance:com.amazon.tests.GiftsTest@97e93f1]" name="GiftsTestMethod" duration-ms="110077" started-at="2020-02-22T22:03:16 IST" finished-at="2020-02-22T22:05:06 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GiftsTestMethod -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.GiftsTest@6646153]" name="TearDown" is-config="true" duration-ms="7387" started-at="2020-02-17T14:33:44 IST" finished-at="2020-02-17T14:33:51 IST">
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.GiftsTest@97e93f1]" name="TearDown" is-config="true" duration-ms="6627" started-at="2020-02-22T22:05:16 IST" finished-at="2020-02-22T22:05:23 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->

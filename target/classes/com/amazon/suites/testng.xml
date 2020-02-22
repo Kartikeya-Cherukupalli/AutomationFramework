@@ -12,7 +12,7 @@
     <classes>
       <class name="com.amazon.tests.DealsTest"/>
     </classes>
-  </test> 
+  </test>
 <test thread-count="5" name="GiftsTest">
    <parameter name ="browser" value ="firefox"/>
     <classes>

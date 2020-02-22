@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>2/0/0</td>
 </tr><tr>
-<td>Started on:</td><td>Mon Feb 17 14:32:47 IST 2020</td>
+<td>Started on:</td><td>Sat Feb 22 22:00:07 IST 2020</td>
 </tr>
-<tr><td>Total time:</td><td>61 seconds (61989 ms)</td>
+<tr><td>Total time:</td><td>91 seconds (91678 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,6 +67,78 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.amazon.tests.GiftsTest.GiftsTestMethod()'><b>GiftsTestMethod</b><br>Test class: com.amazon.tests.GiftsTest</td>
+<td><div><pre>java.lang.NoClassDefFoundError: org/openqa/selenium/WrapsDriver
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:97)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.amazon.base.BaseActions.waitFor(BaseActions.java:35)
+	at com.amazon.base.BaseActions.waitFor(BaseActions.java:49)
+	at com.amazon.base.BaseActions.find(BaseActions.java:63)
+	at com.amazon.base.BaseActions.Click(BaseActions.java:83)
+	at com.amazon.pages.HomePage.ClickGiftsLink(HomePage.java:54)
+	at com.amazon.tests.GiftsTest.GiftsTestMethod(GiftsTest.java:22)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.ClassNotFoundException: org.openqa.selenium.WrapsDriver
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 31 more
+... Removed 18 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1363035733", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1363035733'><pre>java.lang.NoClassDefFoundError: org/openqa/selenium/WrapsDriver
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:97)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.amazon.base.BaseActions.waitFor(BaseActions.java:35)
+	at com.amazon.base.BaseActions.waitFor(BaseActions.java:49)
+	at com.amazon.base.BaseActions.find(BaseActions.java:63)
+	at com.amazon.base.BaseActions.Click(BaseActions.java:83)
+	at com.amazon.pages.HomePage.ClickGiftsLink(HomePage.java:54)
+	at com.amazon.tests.GiftsTest.GiftsTestMethod(GiftsTest.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at org.testng.TestRunner.privateRun(TestRunner.java:770)
+	at org.testng.TestRunner.run(TestRunner.java:591)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:41)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:443)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:67)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.ClassNotFoundException: org.openqa.selenium.WrapsDriver
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 31 more
+</pre></div></td>
+<td>14</td>
+<td>com.amazon.tests.GiftsTest@6b419da</td></tr>
+</table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
@@ -75,20 +147,15 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.amazon.tests.DealsTest.DealsTestMethod()'><b>DealsTestMethod</b><br>Test class: com.amazon.tests.DealsTest<br>Parameters: Appliances</td>
-<td></td>
-<td>31</td>
-<td>com.amazon.tests.DealsTest@55ca8de8</td></tr>
-<tr>
 <td title='com.amazon.tests.DealsTest.DealsTestMethod()'><b>DealsTestMethod</b><br>Test class: com.amazon.tests.DealsTest<br>Parameters: Beauty</td>
 <td></td>
-<td>34</td>
-<td>com.amazon.tests.DealsTest@55ca8de8</td></tr>
+<td>53</td>
+<td>com.amazon.tests.DealsTest@5b0abc94</td></tr>
 <tr>
-<td title='com.amazon.tests.GiftsTest.GiftsTestMethod()'><b>GiftsTestMethod</b><br>Test class: com.amazon.tests.GiftsTest</td>
+<td title='com.amazon.tests.DealsTest.DealsTestMethod()'><b>DealsTestMethod</b><br>Test class: com.amazon.tests.DealsTest<br>Parameters: Appliances</td>
 <td></td>
-<td>9</td>
-<td>com.amazon.tests.GiftsTest@6646153</td></tr>
+<td>58</td>
+<td>com.amazon.tests.DealsTest@5b0abc94</td></tr>
 </table><p>
 </body>
 </html>
