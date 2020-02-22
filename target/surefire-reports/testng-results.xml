@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="67500" started-at="2020-02-22T23:48:44 IST" finished-at="2020-02-22T23:49:52 IST">
+  <suite name="Suite" duration-ms="119857" started-at="2020-02-23T00:13:51 IST" finished-at="2020-02-23T00:15:51 IST">
     <groups>
     </groups>
-    <test name="DealsTest" duration-ms="67500" started-at="2020-02-22T23:48:44 IST" finished-at="2020-02-22T23:49:52 IST">
+    <test name="DealsTest" duration-ms="119857" started-at="2020-02-23T00:13:51 IST" finished-at="2020-02-23T00:15:51 IST">
       <class name="com.amazon.tests.DealsTest">
-        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="Setup" is-config="true" duration-ms="33691" started-at="2020-02-22T23:48:44 IST" finished-at="2020-02-22T23:49:18 IST">
+        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@221af3c0]" name="Setup" is-config="true" duration-ms="73086" started-at="2020-02-23T00:13:51 IST" finished-at="2020-02-23T00:15:04 IST">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="Setup" is-config="true" duration-ms="35333" started-at="2020-02-22T23:48:44 IST" finished-at="2020-02-22T23:49:20 IST">
+        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@221af3c0]" name="Setup" is-config="true" duration-ms="73186" started-at="2020-02-23T00:13:51 IST" finished-at="2020-02-23T00:15:04 IST">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="DealsTestMethod(java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="DealsTestMethod" duration-ms="23156" started-at="2020-02-22T23:49:18 IST" data-provider="GetData" finished-at="2020-02-22T23:49:41 IST">
+        <test-method status="PASS" signature="DealsTestMethod(java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@221af3c0]" name="DealsTestMethod" duration-ms="29025" started-at="2020-02-23T00:15:04 IST" data-provider="GetData" finished-at="2020-02-23T00:15:33 IST">
           <params>
             <param index="0">
               <value>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DealsTestMethod -->
-        <test-method status="PASS" signature="DealsTestMethod(java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="DealsTestMethod" duration-ms="21523" started-at="2020-02-22T23:49:20 IST" data-provider="GetData" finished-at="2020-02-22T23:49:41 IST">
+        <test-method status="PASS" signature="DealsTestMethod(java.lang.String)[pri:0, instance:com.amazon.tests.DealsTest@221af3c0]" name="DealsTestMethod" duration-ms="28847" started-at="2020-02-23T00:15:04 IST" data-provider="GetData" finished-at="2020-02-23T00:15:33 IST">
           <params>
             <param index="0">
               <value>
@@ -61,11 +61,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DealsTestMethod -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="TearDown" is-config="true" duration-ms="10322" started-at="2020-02-22T23:49:41 IST" finished-at="2020-02-22T23:49:52 IST">
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.DealsTest@221af3c0]" name="TearDown" is-config="true" duration-ms="13862" started-at="2020-02-23T00:15:33 IST" finished-at="2020-02-23T00:15:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.DealsTest@15d9bc04]" name="TearDown" is-config="true" duration-ms="9803" started-at="2020-02-22T23:49:41 IST" finished-at="2020-02-22T23:49:51 IST">
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.tests.DealsTest@221af3c0]" name="TearDown" is-config="true" duration-ms="17033" started-at="2020-02-23T00:15:34 IST" finished-at="2020-02-23T00:15:51 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
