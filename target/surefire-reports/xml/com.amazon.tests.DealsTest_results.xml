@@ -4,11 +4,11 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="74.943">
+           time="57.715">
   <properties />
   
   
-            <testcase name="DealsTestMethod" time="45.147" classname="com.amazon.tests.DealsTest" />
-                <testcase name="DealsTestMethod" time="29.796" classname="com.amazon.tests.DealsTest" />
+            <testcase name="DealsTestMethod" time="28.393" classname="com.amazon.tests.DealsTest" />
+                <testcase name="DealsTestMethod" time="29.322" classname="com.amazon.tests.DealsTest" />
       
 </testsuite>

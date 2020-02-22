@@ -3,6 +3,7 @@ com\amazon\tests\DealsTest.class
 com\amazon\driverfactory\ConcreteFirefoxRemoteDriver.class
 com\amazon\utilities\ScreenshotUtility.class
 com\amazon\base\BaseActions.class
+com\amazon\driverfactory\InitializeDriver.class
 com\amazon\pages\GiftsPage.class
 com\amazon\utilities\XmlParserUtility.class
 com\amazon\driverfactory\ConcreteChromeDriver.class
